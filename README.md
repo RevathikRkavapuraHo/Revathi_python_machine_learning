@@ -1,1 +1,31 @@
-https://workspace.google.com/intl/en_in/products/docs/?utm_source=google&utm_medium=cpc&utm_campaign=1009882-Workspace-APAC-IN-en-BKWS-EXA-Golden&utm_content=text-ad-none-none-DEV_m-CRE_469259700129-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20EXA%20%7C%20Docs%20%7C%20%5BM:1%5D%20%7C%20IN%20%7C%20EN-KWID_43700057535047323-kwd-4379564344&userloc_9040216-network_g=&utm_term=KW_google%20docs&gclid=Cj0KCQjw5PGFBhC2ARIsAIFIMNfb8GkZMK1_Gfu9pAUyAUDSBqMfrOFzIzWfcBxSqR1m-2UxLLugwtEaAg6EEALw_wcB&gclsrc=aw.ds
+
+# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a
+href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"
+> <img
+src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%2
+0THUMBNAIL-5.png"> </a>
+<br>I got to have hands on experience on:
+<li>Python
+<li>Machine Learning
+<li>Tensorflow
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
+or follow SHAPEAI on:
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+"https://github.com/shapeai">GitHub</a>
